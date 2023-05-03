@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/website/static/css/main.ab413c0c.css",
+    "main.js": "/website/static/js/main.561d14f2.js",
+    "static/media/landing.png": "/website/static/media/landing.f418625c0090062d1e11.png",
+    "static/media/pinkbanner.png": "/website/static/media/pinkbanner.92a084be2d0cca30a211.png",
+    "static/media/polygon.png": "/website/static/media/polygon.50163b5c4ca1d7660aed.png",
+    "static/media/Girish.png": "/website/static/media/Girish.3f4399a5d3c8fd105fce.png",
+    "static/media/Manan.png": "/website/static/media/Manan.dfdc0e1ab07a86a2b7b9.png",
+    "static/media/phone3.png": "/website/static/media/phone3.97bab602fdc65e6be982.png",
+    "static/media/Pusti.png": "/website/static/media/Pusti.21b7960e9b4d902377f4.png",
+    "static/media/phone1.png": "/website/static/media/phone1.2700cc1ebcc9a33575e6.png",
+    "static/media/phone2.png": "/website/static/media/phone2.dadce00ddb3a2c8c65a3.png",
+    "static/media/Khushi.png": "/website/static/media/Khushi.b71c6971cd996340502c.png",
+    "static/media/Vinit.png": "/website/static/media/Vinit.57269c0cfface3d8366d.png",
+    "static/media/Nirali.png": "/website/static/media/Nirali.0808facae35b9c65f054.png",
+    "static/media/eureka.png": "/website/static/media/eureka.b9a10fb540971dfb7f5c.png",
+    "static/media/Jainika.png": "/website/static/media/Jainika.2c0ada8d2a1dd25e27ff.png",
+    "static/media/akaar.png": "/website/static/media/akaar.5583c06277de5441b607.png",
+    "static/media/together.png": "/website/static/media/together.7c7a4f53d4c9f86643cb.png",
+    "static/media/feature7.png": "/website/static/media/feature7.a7eee6f3801dfc5c6733.png",
+    "static/media/feature4.png": "/website/static/media/feature4.be34094d80006c2c68e4.png",
+    "static/media/feature3.png": "/website/static/media/feature3.8a482a5d2a0072ab3e89.png",
+    "static/media/feature1.png": "/website/static/media/feature1.84bfb10364ca75adb5bf.png",
+    "static/media/feature5.png": "/website/static/media/feature5.4ed2aacaf77f0c100679.png",
+    "static/media/feature6.png": "/website/static/media/feature6.fa19aed613aebd85aac2.png",
+    "static/media/feature2.png": "/website/static/media/feature2.a9107a24e7b4faf9298e.png",
+    "static/media/baelogo.png": "/website/static/media/baelogo.05bfbe9b6895f08402eb.png",
+    "index.html": "/website/index.html",
+    "main.ab413c0c.css.map": "/website/static/css/main.ab413c0c.css.map",
+    "main.561d14f2.js.map": "/website/static/js/main.561d14f2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ab413c0c.css",
+    "static/js/main.561d14f2.js"
+  ]
+}
