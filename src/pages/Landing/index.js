@@ -30,9 +30,11 @@ export default function Landing() {
               Join us in empowering women through early detection, education,
               and support services.
             </p>
-            <button className="bg-[#FF6B99] py-3 px-6 text-white mt-8 rounded-lg">
-              Assess your risk
-            </button>
+            <a href="https://baeorg.pythonanywhere.com/">
+              <button className="bg-[#FF6B99] py-3 px-6 text-white mt-8 rounded-lg">
+                Assess your risk
+              </button>
+            </a>
           </div>
           <div>
             <img src={landing} height={617} />

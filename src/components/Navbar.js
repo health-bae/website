@@ -35,9 +35,11 @@ export const Navbar = () => {
         >
           Achievements
         </Link>
-        <button className="bg-[#FF6B99] py-3 px-6 text-white rounded-lg">
-          Assess your risk
-        </button>
+        <a href="https://baeorg.pythonanywhere.com/">
+          <button className="bg-[#FF6B99] py-3 px-6 text-white rounded-lg">
+            Assess your risk
+          </button>
+        </a>
       </div>
     </div>
   );
