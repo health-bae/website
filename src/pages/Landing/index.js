@@ -40,7 +40,7 @@ export default function Landing() {
             <img src={landing} height={617} />
           </div>
         </div>
-        <div className="mt-16 flex">
+        <div id="risk_assessment" className="mt-16 flex">
           <img src={polygon} height={400} width={400} />
           <div className="ml-8">
             <h1 className="text-3xl font-semibold mt-4">
@@ -64,8 +64,10 @@ export default function Landing() {
           </div>
         </div>
       </div>
-      <Carousel />
-      <div className="px-[12%] mt-8">
+      <div id="product">
+        <Carousel />
+      </div>
+      <div id="mission" className="px-[12%] mt-8">
         <Features />
         <div className="relative mt-24">
           <img
@@ -83,9 +85,14 @@ export default function Landing() {
             </p>
           </div>
         </div>
-        <Team />
+        <div id="team">
+          <Team />
+        </div>
+
         <Advisors />
-        <Achievements />
+        <div id="achievements">
+          <Achievements />
+        </div>
         <h1 className="text-2xl text-center font-semibold mt-32">
           Breast Cancer Screening,{" "}
           <span className="text-[#FF6B99]">Redefined.</span>

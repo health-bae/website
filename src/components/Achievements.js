@@ -21,22 +21,17 @@ const Achievements = () => {
         </div>
         <div className="mr-6">
           <img src={akaar} className="w-full" />
-          <h1 className="text-base font-semibold mt-4">
-            National Top 6 Finalists
-          </h1>
+          <h1 className="text-base font-semibold mt-4">2nd Runner Up </h1>
           <p className="text-[#373032] text-sm mt-4">
-            Student Entrepreneurship Bootcamp & Venture competition, Schulich
-            School of Business in association with Startup India.
+            Aakaar is Asia's Largest Annual Festival of the Department of Civil
+            Engineering, IIT Bombay.
           </p>
         </div>
         <div className="mr-6">
           <img src={eureka} className="w-full" />
-          <h1 className="text-base font-semibold mt-4">
-            National Top 6 Finalists
-          </h1>
+          <h1 className="text-base font-semibold mt-4">Top 600 Finalists </h1>
           <p className="text-[#373032] text-sm mt-4">
-            Student Entrepreneurship Bootcamp & Venture competition, Schulich
-            School of Business in association with Startup India.
+            Asia's largest business model competition.
           </p>
         </div>
       </div>
